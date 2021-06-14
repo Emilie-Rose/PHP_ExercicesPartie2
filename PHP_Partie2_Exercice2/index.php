@@ -15,7 +15,7 @@
      par la deuxième et afficher le résultat.</p>
     <?php 
         $a = 0;
-        $b = 27;
+        $b = 28;
         while ($a <= 20) {
             echo($a*$b) . '<br />';
             $a++;
